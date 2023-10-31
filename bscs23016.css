@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+.p1
+{
+	text-align: center;
+}
+.p2
+{
+	display: block; 
+  margin: 0 auto; 
+  text-align: center; 
+  vertical-align: middle; 
+	color: black;	
+}
+
+.p3
+{
+	display: block; 
+  margin: 0 auto; 
+  text-align: center; 
+  vertical-align: middle; 
+	color: black;
+	
+}
+.img1 {
+  display: block; 
+  margin: 0 auto; 
+  text-align: center; 
+  vertical-align: middle; 
+	border: 5px #000000;
+}
+
+.img2 {
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+}
+.div1 {
+	width: 1320px;
+   height: 20px;
+   background-color: #A684DC; 
+   margin: 10px;
+   padding: 5px;   
+	color: black;
+  
+}
+
+.image-container{
+	text-align: center;
+}
+
+
+.div2
+{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: #000000;
+	border: 3px solid #000000;
+	border-width: 3px;
+}
+.div3 {
+    width: 1320px;
+    height: 20px;
+    background-color: #A684DC;
+    position: fixed;
+    bottom: 0;
+}
+.p2, .p3, .div2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.div2 {
+    border: 3px solid #000000;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+}
+.p2, .p3 {
+    color: #333; /* A dark text color */
+}
+.div1  {
+    background-color: #A684DC; /* A consistent background color */
+    color: #fff; /* White text on colored backgrounds */
+}
+.div2{
+	background-color: #000000; /* A consistent background color */
+    color: #fff;
+}
+.img1, .img2 {
+    border: 5px solid #000000;
+    border-radius: 10px; /* Add rounded corners */
+}
