@@ -79,14 +79,14 @@
     color: #333; /* A dark text color */
 }
 .div1  {
-    background-color: #A684DC; /* A consistent background color */
-    color: #fff; /* White text on colored backgrounds */
+    background-color: #A684DC; 
+    color: #fff; 
 }
 .div2{
-	background-color: #000000; /* A consistent background color */
+	background-color: #000000; 
     color: #fff;
 }
 .img1, .img2 {
     border: 5px solid #000000;
-    border-radius: 10px; /* Add rounded corners */
+    border-radius: 10px; 
 }
